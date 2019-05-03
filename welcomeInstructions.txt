@@ -1,0 +1,11 @@
+
+Welcome to College RPG 1.0!
+
+This game simulates the life of an average student
+Your goal is to pass your exam. As you may know, there are many
+ways to accomplish this. Guide your character in what you consider
+the most appropriate path to pass your exam. (or just fail, it's
+also an option).
+
+Be sure to explore the campus in order to find all possible options.
+Best of luck!
